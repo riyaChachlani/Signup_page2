@@ -1,0 +1,35 @@
+.sc {
+  position: absolute;
+  left: 35%;
+  height: 380px;
+  margin-top: -150px;
+  /* half of you height */
+  width: 300px;
+  margin-left: -200px;
+  /* half of you width */
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 20px rgba(21, 18, 18, 0.1);
+  background-image: url("./triangular-background-seamless-geometric-pattern-seamless-abstract-triangle-geometrical-background_657999-11159-2.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.hello {
+  text-align: center;
+}
+h2 {
+  text-align: center;
+}
+a:hover {
+  background-color: rgb(151, 151, 207);
+}
+.ant-input {
+  border-color: rgb(27, 11, 11) !important; /* Dark border color */
+}
+.ant-input:focus,
+.ant-input:hover {
+  border-color: #000 !important; /* Dark border color on focus and hover */
+  box-shadow: 0 0 0 2px rgba(0, 0, 0, 0.2); /* Optional: Add a subtle shadow effect */
+}
