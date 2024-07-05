@@ -6,7 +6,9 @@ in the mongoDB.
 Follow these steps:
 
 1. Navigate to the project directory in your terminal.
-2. In order to start server run this command : npm start
+2. In order to start server run this command : npm start  .
 3. In order to start client :
-    1.Navigate to the client directory in your terminal : cd client
-    2. Then : npm start
+   
+    1.Navigate to the client directory in your terminal : cd client .
+   
+    2. Then : npm start .
